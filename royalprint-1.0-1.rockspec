@@ -15,7 +15,7 @@ description = {
 
       🌑:= read documentation on "homepage" link.
    ]],
-   homepage = "http://me.github.com/codebabel-appbag/royalprint_lua",
+   homepage = "https://github.com/codebabel-appbag/royalprint_lua",
    license = "MIT",
    maintainer = "codebabel <codebabel.mint@gmail.com>"
 }

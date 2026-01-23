@@ -20,7 +20,7 @@ description = {
    maintainer = "codebabel <codebabel.mint@gmail.com>"
 }
 
-dependencies {
+dependencies = {
    "lua >= 5.1"
 }
 

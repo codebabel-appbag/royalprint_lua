@@ -3,7 +3,6 @@
 # royalprint: 2.0-1 🌑
 ## 📃 Description / Descrição
 ~~~
-
 {EN}
 
 royalprint is perfect for simplifying the information that needs to go to the console,

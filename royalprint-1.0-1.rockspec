@@ -1,9 +1,9 @@
 package = "royalprint"
-version = "1.0-1"
+version = "2.0-1"
 
 source = {
    url = "git+https://github.com/codebabel-appbag/royalprint_lua.git",
-   tag = "v1.0"
+   tag = "v2.0"
 }
 
 description = {
@@ -13,7 +13,7 @@ description = {
       similar to printing in C++ command cout, PHP echo, log("Hi"), go("Hello mdf"),
       cout("whoami?"), puts("She Knows").. and more..
 
-      🌑:= read documentation on "homepage" link.
+      Read the documentation on the homepage link.
    ]],
    homepage = "https://github.com/codebabel-appbag/royalprint_lua",
    license = "MIT",
@@ -21,13 +21,12 @@ description = {
 }
 
 dependencies = {
-   "lua >= 5.1"
+   "lua >= 5.1, < 5.5"
 }
 
 build = {
    type = "builtin",
    modules = {
-      ["royalprint"] = "src/royalprint.lua"
-   },
-   copy_directories = { "doc", "test" }
+      royalprint = "royalprint.lua"
+   }
 }

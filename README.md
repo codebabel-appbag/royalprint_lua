@@ -1,6 +1,6 @@
 #  [![](https://i.postimg.cc/wBPhM5Lv/jackal-11-24-v2-32-inverted.png)]()  CODEBABEL
 
-# royalprint: 1.0-1 🌑
+# royalprint: 2.0-1 🌑
 ## 📃 Description / Descrição
 ~~~
 {EN}
@@ -93,7 +93,6 @@ printin
 println
 
 codebabel
-devdalua
 xLapis
 xLua
 ~~~
@@ -130,7 +129,6 @@ println(msg_box);  -- java println
 
 --  Personal dev
 codebabel(msg_box)
-devdalua(msg_box)
 
 -- Aesthetic xPrint Thematic
 xLapis(msg_box);   -- Lua xLapis
@@ -141,6 +139,7 @@ xLua(msg_box)      -- Lua Print
 |Version| Version Name | Upgrade Latency |
 |-------|--------------|-----------------|
 | 1.0-1 |  royalprint  |    START LIB    |
+| 2.0-1 |  royalprint  |    FIX ERROS    |
 
 
 ## 💜 Thank's 🧡
